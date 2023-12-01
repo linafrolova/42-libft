@@ -1,7 +1,5 @@
 # 42-libft
 
-![42 Logo](https://www.42.us.org/wp-content/uploads/2019/02/42_logo_white.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [What's in the Library](#whats-in-the-library)
