@@ -3,9 +3,9 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [What's in the Library](#whats-in-the-library)
-  - [Functions from `<ctype.h>`](#functions-from-ctypeh)
   - [Functions from `<string.h>`](#functions-from-stringh)
   - [Functions from `<stdlib.h>`](#functions-from-stdlibh)
+  - [Functions from `<ctype.h>`](#functions-from-ctypeh)
   - [Non-standard Functions](#non-standard-functions)
   - [Linked List Functions](#linked-list-functions)
 
@@ -16,29 +16,6 @@ Libft is a project at School 42 that requires you to recreate some standard C li
 ## What's in the Library
 
 Here are some of the functions implemented in the Libft library:
-
-## Functions from `<ctype.h>`
-
-- **`ft_isalpha`**
-  - Checks for an alphabetic character.
-
-- **`ft_isdigit`**
-  - Checks for a digit (0 through 9).
-
-- **`ft_isalnum`**
-  - Checks for an alphanumeric character.
-
-- **`ft_isascii`**
-  - Checks whether the character fits into the ASCII character set.
-
-- **`ft_isprint`**
-  - Checks for any printable character.
-
-- **`ft_toupper`**
-  - Converts a character to uppercase.
-
-- **`ft_tolower`**
-  - Converts a character to lowercase.
 
 ## Functions from `<string.h>`
 
@@ -91,6 +68,30 @@ Here are some of the functions implemented in the Libft library:
 
 - **`ft_calloc`**
   - Allocates memory and sets its bytes' values to 0.
+
+
+## Functions from `<ctype.h>`
+
+- **`ft_isalpha`**
+  - Checks for an alphabetic character.
+
+- **`ft_isdigit`**
+  - Checks for a digit (0 through 9).
+
+- **`ft_isalnum`**
+  - Checks for an alphanumeric character.
+
+- **`ft_isascii`**
+  - Checks whether the character fits into the ASCII character set.
+
+- **`ft_isprint`**
+  - Checks for any printable character.
+
+- **`ft_toupper`**
+  - Converts a character to uppercase.
+
+- **`ft_tolower`**
+  - Converts a character to lowercase.
 
 ## Non-standard Functions
 
